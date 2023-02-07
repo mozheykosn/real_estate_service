@@ -1,5 +1,4 @@
 # real_estate_service
-Analysis of real estate service data (archive of announcements for the sale of apartments in St. Petersburg and neighboring settlements for several years). The task is to set parameters that will help to establish the market value of the object. The data will be used to create an automated system. 
 
 Для исследования даны данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет. Задача — установить параметры, которые помогут установить рыночную стоимость объекта. Данные будут использоваться для создания автоматизированной системы.
 
